@@ -1,5 +1,7 @@
 {
-  "reset": true,
-  "n": 3,
-  "at": "2026-11-16T08:10:16.996Z"
+  "version": "1.0.2-test.4",
+  "url": "https://ugurseleci.github.io/pop-toplar-site/ota/android/test/bundle-1.0.2-test.4.zip",
+  "checksum": "2c646d8731cade1a184e87eb50ea15fb36aa7a366ec0dc07a002a1c10d8668b5",
+  "n": 4,
+  "at": "2026-11-16T12:10:06.747Z"
 }
